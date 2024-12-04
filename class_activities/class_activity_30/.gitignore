@@ -1,0 +1,33 @@
+# User-specific files
+*.xcuserstate
+*.xcworkspace
+*.xcodeproj/project.xcworkspace
+.idea/
+
+# Build folders
+build/
+DerivedData/
+
+# Xcode-specific files
+*.hmap
+*.ipa
+*.dSYM/
+*.swp
+*.xcscheme
+xcuserdata/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Swift Package Manager
+/.build/
+Packages/
+.swiftpm/
+
+# Other
+*.moved-aside
+*.xcuserstate
